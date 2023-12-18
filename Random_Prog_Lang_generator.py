@@ -6,7 +6,7 @@ lang = ["Python", "JavaScript", "Java", "C++", "C#", "Ruby", "Swift", "Go", "PHP
    
 ]
 
-# Selects Random Programming Language from the given list   
+# Selects Random Programming Language from the given list lang  
 random_lang = random.choice(lang)
 
 # Prints the programming language choosen
