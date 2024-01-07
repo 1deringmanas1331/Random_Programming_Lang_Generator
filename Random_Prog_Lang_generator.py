@@ -1,4 +1,4 @@
-# Import the Library Random
+# Import the random 
 import random
 
 # List of Programming Languages
